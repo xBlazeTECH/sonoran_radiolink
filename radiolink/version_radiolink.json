@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "check_url": "https://raw.githubusercontent.com/Sonoran-Software/sonoran_radiolink/master/radiolink/version_radiolink.json",
+    "download_url": "https://github.com/Sonoran-Software/sonoran_radiolink/",
+    "configVersion": "1.0",
+    "minCoreVersion": "2.5.7"
+}
